@@ -1,0 +1,31 @@
+body {
+  font-family: Arial;
+  background-color: #1e272e;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.caixa {
+  background-color: #485460;
+  padding: 20px;
+  border-radius: 10px;
+  text-align: center;
+}
+
+input {
+  padding: 8px;
+  margin: 10px;
+  width: 200px;
+}
+
+button {
+  padding: 8px 15px;
+  cursor: pointer;
+}
+
+#resultado {
+  margin-top: 15px;
+}
