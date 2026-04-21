@@ -6,7 +6,7 @@ function converter() {
     return;
   }
 
-  let cotacao = 5.00; // <-- valor fixo do dólar (altere aqui quando quiser)
+  let cotacao = 5.00;
 
   let resultado = valor * cotacao;
 
